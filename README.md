@@ -1,6 +1,6 @@
-# Austin Averill
+# Emmy Averill
 #### GIS Developer and Tech Enthusiast
-📄 **[Visit My Site](https://AustinA-py.github.io)** - Explore my CV
+📄 **[Visit My Site](https://gis-emmy.github.io)** - Explore my CV
 
 🌐 **[View Live App Example](https://example-table-application.onrender.com/)** - Check out my latest deployment!
 
@@ -9,8 +9,11 @@
 ## About me
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
 
-    class Austin:
+    class Emmy:
       def __init__(self): 
+
+        self.pronouns = "She/Her"
+        
         self.education = ('B.S - Major: Environmental Science '
                           '| Minor: Antrhopology')
 
@@ -41,6 +44,7 @@ CPU: AMD Ryzen 5800x
 GPU: PowerColor Hellhound Radeon RX 7800xt   
 PSU: Asus ROG Strix 1000w Gold   
 Cooling: Lian Li Uni + Arctic Liquid Freeze
+
 
 
 
